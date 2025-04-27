@@ -3,7 +3,7 @@
 ![image](https://i.imgur.com/TVLlrOt.jpeg)
 
 > *"Sharper Vision. Smarter Decisions."*  
-> Hawkeye AI Token (HAWK) is the native utility token that powers the Hawkeye AI ecosystem — a decentralized platform combining cutting-edge artificial intelligence with blockchain technology.
+> Hawkeye AI Token (HawkeyeAI) is the native utility token that powers the Hawkeye AI ecosystem — a decentralized platform combining cutting-edge artificial intelligence with blockchain technology.
 
 Designed for users seeking deeper insights, faster decision-making, and trusted intelligence, HAWK enables seamless interaction with AI agents, access to premium analytics, marketplace participation, and governance rights within the Hawkeye AI network.
 
