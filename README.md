@@ -64,8 +64,8 @@ The **HAWK token** acts as the core utility asset that fuels interactions within
 
 ## **🔗 Useful Links**
 
-- [Official Website](https://your-website.com)
-- [Twitter](https://twitter.com/your-twitter)
+- [Official Website](https://hawkeyeai.xyz)
+- [Twitter](https://x.com/HawkeyeAI_sol)
 
 ---
 
